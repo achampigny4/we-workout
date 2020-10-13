@@ -26,7 +26,7 @@ We Workout is a fitness app for users that want to workout at home and lose that
 
 ## Application Link
 
-[Application Deployed on Heroku]()
+[Application Deployed on Heroku](https://weworkoutapp.herokuapp.com/)
 
 </br>
 
@@ -60,7 +60,7 @@ UNH's Coding Bootcamp Project 2 requirements
 
 ## Technologies Used
 
-MySQL, Node.js, Express, Express-Handlebars, ESLint, jQuery, Heroku, CSS, HTML, Bootstrap, Husky, Trello, Balsamiq
+Sequelize, Passport, MySQL, Node.js, Express, Express-Handlebars, ESLint, jQuery, Heroku, CSS, HTML, Bootstrap, Animate.CSS, Trello, Balsamiq
 
 ## Contact Developers
 
@@ -72,6 +72,6 @@ MySQL, Node.js, Express, Express-Handlebars, ESLint, jQuery, Heroku, CSS, HTML, 
 
 [Shawn Rather](https://github.com/SAR-SA)
 
-[Dwayne Risley](https://github.com/RisleyDwayne)
+[Ahmed Sheikh](https://github.com/ASheikh-io)
 
 *Copyright (c) 2020 Project 2 Group 4 WAPP*
