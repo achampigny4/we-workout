@@ -4,7 +4,7 @@
 
 ## Description
 
-We Workout is a fitness app for users that want to workout at home and lose that quarentine fifteen. User's can select pre-made workouts from WAPP's databse or build their own personalized workouts of exercises with or without weights. This app makes it easy for friends to socially distance and use that WAPP database to workout virtually together.
+We Workout is a fitness app for users that want to workout at home and lose that quarantine fifteen. User's can select pre-made workouts from WAPP's database or build their own personalized workouts of exercises with or without weights. This app makes it easy for friends to socially distance and use that WAPP database to workout virtually together.
 
 </br>
 
